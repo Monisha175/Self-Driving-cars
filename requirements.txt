@@ -1,0 +1,13 @@
+tensorflow==2.15.0
+keras==2.15.0
+opencv-python==4.9.0.80
+numpy==1.26.4
+pandas==2.2.1
+scikit-learn==1.4.2
+Pillow==10.3.0
+flask==3.0.3
+python-socketio==5.11.2
+python-engineio==4.9.0
+eventlet==0.35.2
+tqdm==4.66.2
+matplotlib==3.8.4
